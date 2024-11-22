@@ -4,10 +4,12 @@
 what is included?
 
 
-  1.Add normal offers
-
-
-  You can add normal offers such as skin or some kinds of stuff
-
-
-  2.
+## What's working ?
+- Add normal offrrs
+  - Add coins, boxes, or some kinds of offers to 'offers' tab
+- Add daily deals
+  - Add same things to 'daily deals' tab
+- Add skin offer
+  - Add skin offer to 'skin' tab without knowing no skin id
+- Add star coin offer
+  - As same as normal offers
