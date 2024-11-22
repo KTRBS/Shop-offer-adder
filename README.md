@@ -10,7 +10,7 @@ ktr dev epock tool🥶🥶🥶🥶
 - Add daily deals
   - As same as normal offers but adds to 'daily deals' tab
 - Add skin offer
-  - Add skin offer to 'skin' tab without knowing no skin id
+  - Add skin offer to 'skin' tab
 - Add star coin offer
   - As same as normal offers, but with star coin
 
