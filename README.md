@@ -13,3 +13,6 @@ ktr dev epock tool🥶🥶🥶🥶
   - Add skin offer to 'skin' tab without knowing no skin id
 - Add star coin offer
   - As same as normal offers
+
+## Credits
+ - chargpt
