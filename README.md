@@ -14,5 +14,9 @@ ktr dev epock tool🥶🥶🥶🥶
 - Add star coin offer
   - As same as normal offers, but with star coin
 
+
+## Ingame
+https://i.imgur.com/WEgVQ80.jpeg
+
 ## Credits
  - chargpt
