@@ -1,7 +1,7 @@
-## this is ktr epock tool
+## this is ktr dev epock tool
 
 
-what is included?
+ktr dev epock tool🥶🥶🥶🥶
 
 
 ## What's working ?
