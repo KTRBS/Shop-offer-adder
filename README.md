@@ -16,7 +16,7 @@ ktr dev epock tool🥶🥶🥶🥶
 
 
 ## Ingame
-(https://github.com/user-attachments/assets/85aaa794-31b7-49b2-a327-06ecf5605a41)
+[preview](https://github.com/user-attachments/assets/85aaa794-31b7-49b2-a327-06ecf5605a41)
 
 ## Credits
  - chargpt
