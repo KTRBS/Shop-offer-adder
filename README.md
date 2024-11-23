@@ -22,5 +22,7 @@ ktr dev epock tool🥶🥶🥶🥶
 ## Links
 ![V22 server](https://github.com/PhoenixFire6934/Classic-Brawl/releases/tag/5.1.0)
 
+![V22 client](https://t.me/DownloadZipBS/111)
+
 ## Credits
  - chargpt
