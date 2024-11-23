@@ -18,5 +18,9 @@ ktr dev epock tool🥶🥶🥶🥶
 ## Ingame
 ![preview](https://github.com/user-attachments/assets/85aaa794-31b7-49b2-a327-06ecf5605a41)
 
+
+## Links
+![V22 server](https://github.com/PhoenixFire6934/Classic-Brawl/releases/tag/5.1.0)
+
 ## Credits
  - chargpt
